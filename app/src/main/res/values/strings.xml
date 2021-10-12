@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Program2</string>
+    <string name="amount_description">Enter total amount</string>
+    <string name="enter_your_percentage">Enter percentage</string>
+    <string name="button_title">Tip</string>
+    <string name="restaurant_tip_calculator">Restaurant Tip Calculator</string>
+</resources>
